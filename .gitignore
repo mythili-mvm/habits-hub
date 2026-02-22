@@ -48,6 +48,7 @@ migrate_working_dir/
 /build/app/outputs/sdk-dependencies
 /build/app/outputs/flutter-apk/app-release.apk.sha1
 /coverage/
+/flutter
 
 # Symbolication related
 app.*.symbols
