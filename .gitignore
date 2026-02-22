@@ -30,7 +30,23 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+/build/.cxx
+/build/flutter_local_notifications
+/build/native_assets
+/build/path_provider_android
+/build/reports
+/build/app/generated
+/build/app/intermediates
+/build/app/kotlin
+/build/app/kotlinToolingMetadata
+/build/app/tmp
+/build/app/deeplink.json
+/build/app/outputs/apk
+/build/app/outputs/logs
+/build/app/outputs/mapping
+/build/app/outputs/native-debug-symbols
+/build/app/outputs/sdk-dependencies
+/build/app/outputs/flutter-apk/app-release.apk.sha1
 /coverage/
 
 # Symbolication related
