@@ -1,4 +1,4 @@
-package com.quivic.habitshub
+package com.quivic.habit_tracker
 
 import io.flutter.embedding.android.FlutterActivity
 
