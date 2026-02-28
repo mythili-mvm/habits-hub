@@ -1,4 +1,0 @@
-storePassword=habithub
-keyPassword=habithub
-keyAlias=habit
-storeFile=app/habithub.jks
